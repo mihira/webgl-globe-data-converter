@@ -2,7 +2,9 @@ WebGL Globe Data Converter
 ==========================
 
 **WebGL Globe Data Converter** converts `CSV` data to [WebGL Globe](https://github.com/dataarts/webgl-globe) `JSON` format
+
 ----
+
 WebGL Globe Data Converter uses [python-geohash module](https://code.google.com/p/python-geohash/) to create the groups using 4 as precision value.
 
 ## CSV file format
